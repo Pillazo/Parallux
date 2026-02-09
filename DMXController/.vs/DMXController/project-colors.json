@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd380c3a-60b3-463d-9f88-ac0c3f3c1135": {
+      "ProjectGuid": "fd380c3a-60b3-463d-9f88-ac0c3f3c1135",
+      "DisplayName": "DMXController",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
